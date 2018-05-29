@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 29 15:30:18 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0163-ab57-5839-00000098f960 
+on database directory memory:C:\MSJ\TIE\POC CODE\TIE-WIP1-Service\TIE-WIP1-Service\testdb with class loader sun.misc.Launcher$AppClassLoader@4c12b6 
+Loaded from file:/C:/Users/jamwa500/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_172-b11
+user.dir=C:\MSJ\TIE\POC CODE\TIE-WIP1-Service\TIE-WIP1-Service
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
